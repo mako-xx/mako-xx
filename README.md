@@ -1,5 +1,5 @@
-###  👋Undergraduate student
-###  👯Northwestern Polytechnical University
+##  👋Undergraduate student
+##  👯Northwestern Polytechnical University
 
 <!--
 **mako-xx/mako-xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
