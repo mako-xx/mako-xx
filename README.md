@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi, I am an undergraduate student at Northwestern Polytechnical University. 
 
 <!--
 **mako-xx/mako-xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
